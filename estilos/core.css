@@ -1,3 +1,21 @@
+.boton-menu {
+    background: #deafde;
+    border: 1px solid purple;
+    border-radius: 7px;
+    color: white;
+}
+
+.boton-menu:hover {
+    background: purple;
+    border: 1px solid #deafde;
+    cursor: pointer;
+}
+
 .centrado { 
     text-align: center;
 }
+
+ul li  {
+    display: inline;
+}
+
