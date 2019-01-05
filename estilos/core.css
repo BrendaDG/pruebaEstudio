@@ -15,7 +15,17 @@
     text-align: center;
 }
 
+.github-icon {
+    float: right;
+    width: 32px; 
+    height: 32px;
+}
+
 ul li  {
     display: inline;
+}
+
+.left {
+    float: left;
 }
 
